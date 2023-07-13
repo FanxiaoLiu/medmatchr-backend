@@ -1,7 +1,7 @@
 {
-  "name": "emr-backend",
+  "name": "medmatchr-backend",
   "version": "1.0.0",
-  "description": "Backend for a EMR",
+  "description": "Backend for MEDMATCHR",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
